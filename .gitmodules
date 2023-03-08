@@ -1,0 +1,3 @@
+[submodules "theme/yourfolio"]
+    path = themes/yourfolio
+    url = "https://github.com/serg/yourfolio.git"
